@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "Python configuration",
+            "file": "run.py",
+            "arguments": [],
+        },
+{
+            "type": "flask",
+            "name": "Flask configuration",
+        },
+        
+    ]
+}
