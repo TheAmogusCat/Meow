@@ -18,3 +18,4 @@ This neural network is designed to filter out insults in Russian and not only (e
 0 - good# Meow
 # Meow
 # Meow
+# Meow
